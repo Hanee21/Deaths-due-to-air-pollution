@@ -1,5 +1,5 @@
 # Deaths-due-to-air-pollution
-Dashboard Link : https://public.tableau.com/app/profile/hanee.haresh.patel2172/viz/Deathsduetoairpollution/Dashboard3
+Dashboard Link : https://public.tableau.com/app/profile/hanee.haresh.patel2172/viz/Deathsduetoairpollution/Dashboard3?publish=yes
 
 Dataset Link : https://www.kaggle.com/datasets/akshat0giri/death-due-to-air-pollution-19902017
 
@@ -18,5 +18,5 @@ Year : Applied to "Analysis of deaths (per 100,000 people) in a particular count
 
 Category : Single value select from "Indoor air pollution", "Outdoor Ozone pollution", "Outdoor particulate matter". Applied to "Deaths (per 100,000 people) due to air pollution from different category" plot.
 
-![image](https://user-images.githubusercontent.com/100784535/182080913-9170916d-94fe-4734-9b98-14c856306050.png)
-![image](https://user-images.githubusercontent.com/100784535/182080765-974e88c8-368b-4016-87c1-565140f7e056.png)
+![image](https://user-images.githubusercontent.com/100784535/182088686-f784b6d5-b754-4378-bc75-9b82209d5a87.png)
+![image](https://user-images.githubusercontent.com/100784535/182088735-3b1c3805-dd38-4e85-afbe-e0126d2efae2.png)
