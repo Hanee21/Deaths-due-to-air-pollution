@@ -12,9 +12,9 @@ Filters
 
 Country: It is a single value select filter. Applied to "Analysis of deaths (per 100,000 people) in a particular country due to air pollution" plot and "Deaths (per 100,000 people) due to air pollution for  a particular country" plot.
 
-Top N: It is a single select filter.Applied to "Deaths (per 100,000 people) due to air pollution for  a particular country" and "Deaths (per 100,000 people) due to air pollution for  a particular country" plots.
+Top N: It is a single select filter.Applied to "Top N countries having maximum deaths (per 100,000 people) due to air pollution" plot and "Top N countries having least deaths (per 100,000 people) due to air pollution" plot
 
-Year : Applied to "Analysis of deaths (per 100,000 people) in a particular country due to air pollution" plot , "Deaths (per 100,000 people) due to air pollution for  a particular country" plot, "Deaths (per 100,000 people) due to air pollution" plot  "Top N countries having maximum deaths (per 100,000 people) due to air pollution" plot "Top N countries having least deaths (per 100,000 people) due to air pollution" plot and "Analysis of deaths (per 100,000 people) in a particular country due to air pollution" plot.
+Year : Applied to "Analysis of deaths (per 100,000 people) in a particular country due to air pollution" plot , "Deaths (per 100,000 people) due to air pollution for  a particular country" plot, "Deaths (per 100,000 people) due to air pollution" plot , "Top N countries having maximum deaths (per 100,000 people) due to air pollution" plot "Top N countries having least deaths (per 100,000 people) due to air pollution" plot and "Analysis of deaths (per 100,000 people) in a particular country due to air pollution" plot.
 
 Category : Single value select from "Indoor air pollution", "Outdoor Ozone pollution", "Outdoor particulate matter". Applied to "Deaths (per 100,000 people) due to air pollution from different category" plot.
 
