@@ -19,3 +19,5 @@ Year : Applied to "Analysis of deaths (per 100,000 people) in a particular count
 Category : Single value select from "Indoor air pollution", "Outdoor Ozone pollution", "Outdoor particulate matter". Applied to "Deaths (per 100,000 people) due to air pollution from different category" plot.
 
 
+![image](https://user-images.githubusercontent.com/100784535/182089024-304145d0-837b-4e52-bc41-c449c3b7f667.png)
+![image](https://user-images.githubusercontent.com/100784535/182089120-64e37b43-23ca-4230-87ea-2176e9ba4e94.png)
