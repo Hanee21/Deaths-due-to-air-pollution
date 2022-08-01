@@ -6,11 +6,17 @@ Dataset Link : https://www.kaggle.com/datasets/akshat0giri/death-due-to-air-poll
 Attributes
 
 Country
+
 Code
+
 Year
+
 Air pollution (total) (deaths per 100,000)
+
 Indoor air pollution (deaths per 100,000)
+
 Outdoor particulate matter (deaths per 100,000)
+
 Outdoor ozone pollution (deaths per 100,000)
 
 The dashboard gives detailed analysis of deaths in different countries in years 1990 to 2017 due to air pollution.
